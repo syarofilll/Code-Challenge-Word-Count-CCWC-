@@ -1,4 +1,4 @@
-Code Challenge Word Count (CCWC)
+##Code Challenge Word Count (CCWC)
 I build my own word count challenge with java I don't even know how i can do it please do not touch nor edit
 
 Requirements
