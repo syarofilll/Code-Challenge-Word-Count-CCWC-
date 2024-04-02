@@ -15,16 +15,9 @@ To run this program, you need:
 Follow these steps:
 
 1. **Compile the Program**: Open Command Prompt and navigate to the directory containing `ccwc.java`. Compile the program using the Java compiler:
-    ```
-    javac ccwc.java
-    ```
-
 2. **Run the Program**: Execute the compiled Java program:
-    ```
-    java ccwc
-    ```
-
 3. **View the Output**: The program will prompt you to enter the name of the text file you want to analyze and the counting operation you want to perform (`-c`, `-l`, `-m`, or `-w`). After providing the input, the program will display the result.
+
 
 ## Documentation
 
@@ -37,5 +30,5 @@ The program supports four options for counting operations:
 
 ## Credits
 
-- **Agung Siregar** - [@ngliota](https://github.com/ngliota)
+- **Syarofil Anam** - [@syarofilll](https://github.com/syarofilll)
 - Special thanks to **Mr. Dimas Yudha Prawira**
