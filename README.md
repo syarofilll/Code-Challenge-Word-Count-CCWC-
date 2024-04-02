@@ -30,5 +30,5 @@ The program supports four options for counting operations:
 
 ## Credits
 
-- **Syarofil Anam** - [@syarofilll](https://github.com/syarofilll)
+- **Syarofil Anam** - [@syarofilll] (https://github.com/syarofilll)
 - Special thanks to **Mr. Dimas Yudha Prawira**
