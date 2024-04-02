@@ -1,34 +1,41 @@
-##Code Challenge Word Count (CCWC)
-I build my own word count challenge with java I don't even know how i can do it please do not touch nor edit
+# Code Challenge Word Count (CCWC)
 
-Requirements
-Any java installed computer could run this
-You have to download the ccwc.java
-You need .txt files to test check
-Make sure the file in the same directory
-Instructions
-Make sure both files in the same directory
+This is a Java program I've developed for a word count challenge. It provides functionality to perform various counting operations on a text file.
 
-Create executable jar file put it in Command Prompt and make sure to move the directory to where you save the files "javac ccwc.java"
+## Requirements
 
-Run the Program "java ccwc "
+To run this program, you need:
 
-View the output 
+- Java installed on your computer.
+- Download the `ccwc.java` file from this repository.
+- Prepare `.txt` files for testing purposes. Ensure they are in the same directory as `ccwc.java`.
 
-Documentation
-There are four options -c, -l, -m, and -w are used to specify what kind of counting operation you want to perform on a text file. Here's what each option does:
+## Instructions
 
--c: Counts the number of bytes in the file. It gives you the total size of the file in bytes.
+Follow these steps:
 
--l: Counts the number of lines in the file. It gives you the total number of lines present in the file.
+1. **Compile the Program**: Open Command Prompt and navigate to the directory containing `ccwc.java`. Compile the program using the Java compiler:
+    ```
+    javac ccwc.java
+    ```
 
--m: Counts the number of characters in the file. It gives you the total number of characters present in the file, including spaces, tabs, and newline characters.
+2. **Run the Program**: Execute the compiled Java program:
+    ```
+    java ccwc
+    ```
 
--w: Counts the number of words in the file. It gives you the total number of words present in the file. Words are considered as consecutive sequences of characters separated by whitespace characters (spaces, tabs, newlines, etc.).
+3. **View the Output**: The program will prompt you to enter the name of the text file you want to analyze and the counting operation you want to perform (`-c`, `-l`, `-m`, or `-w`). After providing the input, the program will display the result.
 
-CREDITS
-Agung Siregar @ngliota
+## Documentation
 
-Thanks to Mr. Dimas Yudha Prawira
+The program supports four options for counting operations:
 
-tulis kata diatas ini untuk edit readmi file yang ada di repository git hub
+- `-c`: Counts the number of bytes in the file.
+- `-l`: Counts the number of lines in the file.
+- `-m`: Counts the number of characters in the file.
+- `-w`: Counts the number of words in the file.
+
+## Credits
+
+- **Agung Siregar** - [@ngliota](https://github.com/ngliota)
+- Special thanks to **Mr. Dimas Yudha Prawira**
