@@ -18,7 +18,6 @@ Follow these steps:
 2. **Run the Program**: Execute the compiled Java program:
 3. **View the Output**: The program will prompt you to enter the name of the text file you want to analyze and the counting operation you want to perform (`-c`, `-l`, `-m`, or `-w`). After providing the input, the program will display the result.
 
-
 ## Documentation
 
 The program supports four options for counting operations:
